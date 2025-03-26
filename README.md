@@ -3,6 +3,10 @@
 
 The AI-Powered Personal Tutor is an intelligent, scalable system designed to enhance student engagement by providing personalized learning experiences. Traditional educational methods often fail to address the diverse learning paces and styles of students. This project aims to leverage Artificial Intelligence to create a tutor that adapts to each student's unique needs, offering real-time feedback, customized learning paths, and interactive support. The goal is to provide students with a more engaging, effective, and personalized learning experience, making education more accessible and tailored.
 
+
+
+
+
 Technology Used : 
 
 Data Manipulation and Analysis: Numpy, Pandas for Pre-processing.
@@ -18,7 +22,13 @@ Rag-Pipeline : For PDF Query.
 Streamlit/HTML/CSS: For building interactive and user-friendly web interfaces for both students and educators.
 
 
+
+
+
+
+
 System Architectural Flow : 
+
 Flow of the Application:
 Login/Registration Page: Users can register or log in.
 Once logged in, users can access the  to navigate between the sections:
