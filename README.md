@@ -77,6 +77,6 @@ May require human validation for high-stakes assessments.
 Conclusion:
 The AI-Powered Personal Tutor effectively enhances learning through personalized recommendations, PDF Query, Student Promotion and Assesment Score Prediction,. Despite challenges like data quality, model bias, and computational requirements, the system demonstrates high accuracy, engagement, and scalability. Future improvements will focus on refining AI models, ensuring fairness, and enhancing user experience to create a truly adaptive learning platform.
 
-
-
+Video : 
+https://github.com/user-attachments/assets/b65417ad-6a87-4e08-b19b-016cfc14d5c3
 
